@@ -30,13 +30,13 @@
   👉 首个中文开源农业多模态大模型 
   🔗 https://github.com/zhiweihu1103/AgriAgent  
 
-### 📖 数据与指令体系（Data Layer）
+### 数据与指令体系（Data Layer）
 
 - 🔹 **AgriInstruct**  
   👉 首个中文开源农业微调指令集  
   🔗 https://github.com/zhiweihu1103/AgriInstruct  
 
-### 🧬 育种智能模块
+### 育种智能模块
 
 - 🔹 **BreedingSkills**  
   👉 首个育种领域技能库 
@@ -46,7 +46,7 @@
   👉 首个育种领域小龙虾 
   🔗 https://github.com/zhiweihu1103/BreedingClaw  
 
-### 🏆 评测体系
+### 评测体系
 
 - 🔹 **CCL2026-MGBIE**  
   👉 第一届杂粮育种信息抽取评测  
