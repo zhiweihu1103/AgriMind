@@ -2,6 +2,8 @@
 <img src='https://github.com/user-attachments/assets/e1574c70-ecc0-4735-ba7a-23b60576122a' alt='AgriMind' height='150px'>
 </div>
 
+<h2 align="center">🌾 让智能扎根农业，让数据驱动育种。</h2>
+
 # <p align="center"><font size=50><strong>[后稷农业大模型体系](https://github.com/zhiweihu1103/AgriMind)</strong></font></p>
 
 <div align="center"> <img src='https://github.com/user-attachments/assets/aa11d15e-f55a-4b48-af90-b8be6e101a87' alt='山西省后稷实验室' height='90px'> &emsp;&emsp;&emsp;&emsp; <!-- Adds extra spacing between images --> <img src='https://github.com/user-attachments/assets/4d0aa98e-8b86-4d34-b8cd-1f65ec6256ed' alt='山西农业大学' height='90px'> &emsp;&emsp;&emsp;&emsp; <!-- Adds extra spacing between images --> <img src='https://github.com/user-attachments/assets/94aeaa28-45dc-446c-9a8d-9f39fc51bd44' alt='山西大学' height='90px'> &emsp;&emsp;&emsp;&emsp; <!-- Adds extra spacing between images --> 
@@ -9,9 +11,6 @@
 
 ## 🚀 项目愿景
 
-<h2 align="center">🌾 让智能扎根农业，让数据驱动育种。</h2>
-
-**让智能扎根农业，让数据驱动育种。**  
 后稷农业大模型体系是由山西省后稷实验室、山西农业大学、山西大学联合提出，致力于构建**中文农业领域首个“通用农业+育种智能”双轮驱动的大模型生态**，贯通模型、数据、工具与评测，服务农业智能化与种业创新。
 
 - 🌱 构建 **通用农业大模型底座**
