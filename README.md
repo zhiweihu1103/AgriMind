@@ -38,13 +38,13 @@
 
 ### 育种智能模块
 
-- 🔹 **BreedingSkills**  
-  👉 首个育种领域技能库 
+- 🔹 **BreedingSkills**
+  👉 首个育种领域技能库  
   🔗 https://github.com/YYsama11/BreedingSkills  
 
-- 🔹 **BreedingClaw**  
-  👉 首个育种领域小龙虾 
-  🔗 https://github.com/zhiweihu1103/BreedingClaw  
+- 🔹 **BreedingClaw**
+  👉 首个育种领域小龙虾  
+  🔗 https://github.com/zhiweihu1103/BreedingClaw
 
 ### 评测体系
 
