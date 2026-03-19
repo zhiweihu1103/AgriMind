@@ -21,7 +21,7 @@
 
 ### 通用农业大模型
 
-- 🔹 **AgriMind**  
+- 🔹 **AgriMa**  
   👉 首个中文开源农业大模型  
   🔗 https://github.com/zhiweihu1103/AgriMa  
 
@@ -29,7 +29,7 @@
   👉 首个中文开源农业多模态大模型  
   🔗 https://github.com/zhiweihu1103/AgriAgent
 
-### 数据与指令体系（Data Layer）
+### 数据与指令体系
 
 - 🔹 **AgriInstruct**  
   👉 首个中文开源农业微调指令集  
