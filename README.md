@@ -10,8 +10,6 @@
 **让智能扎根农业，让数据驱动育种。**  
 后稷农业大模型体系致力于构建**中文农业领域首个“通用农业+育种智能”双轮驱动的大模型生态**，贯通模型、数据、工具与评测，服务农业智能化与种业创新。
 
----
-
 ## 🚀 项目愿景
 
 - 🌱 构建 **通用农业大模型底座**
@@ -32,15 +30,11 @@
   👉 首个中文开源农业多模态大模型 
   🔗 https://github.com/zhiweihu1103/AgriAgent  
 
----
-
 ### 📖 数据与指令体系（Data Layer）
 
 - 🔹 **AgriInstruct**  
   👉 首个中文开源农业微调指令集  
   🔗 https://github.com/zhiweihu1103/AgriInstruct  
-
----
 
 ### 🧬 育种智能模块
 
@@ -51,8 +45,6 @@
 - 🔹 **BreedingClaw**  
   👉 首个育种领域小龙虾 
   🔗 https://github.com/zhiweihu1103/BreedingClaw  
-
----
 
 ### 🏆 评测体系
 
