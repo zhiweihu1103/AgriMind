@@ -26,9 +26,9 @@
   👉 首个中文开源农业大模型  
   🔗 https://github.com/zhiweihu1103/AgriMa  
 
-- 🔹 **AgriAgent**  
-  👉 首个中文开源农业多模态大模型 
-  🔗 https://github.com/zhiweihu1103/AgriAgent  
+- 🔹 **AgriAgent**
+  👉 首个中文开源农业多模态大模型  
+  🔗 https://github.com/zhiweihu1103/AgriAgent
 
 ### 数据与指令体系（Data Layer）
 
