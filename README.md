@@ -28,24 +28,20 @@
 - 🔹 **AgriAgent**  
   👉 首个中文开源农业多模态大模型  
   🔗 https://github.com/zhiweihu1103/AgriAgent
-  
-- 🔹 **AgriAgent**
-  👉 首个中文开源农业多模态大模型  
-  🔗 https://github.com/zhiweihu1103/AgriAgent
 
 ### 数据与指令体系
 
 - 🔹 **AgriInstruct**  
   👉 首个中文开源农业微调指令集  
-  🔗 https://github.com/zhiweihu1103/AgriInstruct  
+  🔗 https://github.com/zhiweihu1103/AgriInstruct
 
 ### 育种智能模块
 
-- 🔹 **BreedingSkills**
+- 🔹 **BreedingSkills**  
   👉 首个育种领域技能库  
-  🔗 https://github.com/YYsama11/BreedingSkills  
+  🔗 https://github.com/YYsama11/BreedingSkills
 
-- 🔹 **BreedingClaw**
+- 🔹 **BreedingClaw**  
   👉 首个育种领域小龙虾  
   🔗 https://github.com/zhiweihu1103/BreedingClaw
 
